@@ -1,1 +1,2 @@
-add_executable(fullSubEmb main.cpp)
+add_subdirectory(full_sub)
+add_subdirectory(full_sub_both)
